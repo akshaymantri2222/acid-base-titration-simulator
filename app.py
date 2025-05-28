@@ -24,7 +24,7 @@ indicator_range = {
 }
 
 indicator_color_map = {
-    "Phenolphthalein": {"low": "colorless", "high": "pink"},
+    "Phenolphthalein": {"low": "white", "high": "pink"},
     "Methyl Orange": {"low": "red", "high": "yellow"},
     "Bromothymol Blue": {"low": "yellow", "high": "blue"}
 }
